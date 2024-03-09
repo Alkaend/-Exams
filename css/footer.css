@@ -1,0 +1,27 @@
+footer {
+    height: 17vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+footer h3 a {
+    color: #337ab7;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 2vh;
+
+}
+
+footer h3 a:hover {
+    text-decoration: underline;
+
+}
+
+footer p {
+    color: #959595;
+    font-size: 1.9vh;
+    margin-top: 15px;
+}

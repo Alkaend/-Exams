@@ -1,0 +1,33 @@
+.one {
+    min-height: 37vh;
+    width: 100%;
+    background-color: yellowgreen;
+    color: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.one h1 {
+    font-size: 9vh;
+    font-weight: 400;
+    text-align: center;
+}
+
+.one p {
+    font-size: 3.4vh;
+    font-weight: 400;
+}
+
+.one button {
+
+    height: 12%;
+    border: none;
+    border-radius: 5px;
+    background-color: #337ab7;
+    color: white;
+    margin-top: 1.5%;
+    padding: 10px 17px;
+}
+

@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    min-width: 500px;
+}
+
+
+ul {
+    list-style: none;
+}
+
+
+
+li {
+    color: black;
+    padding: 3px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    font-weight: 300;
+}
+
+li:hover {
+    background-color: rgb(228, 222, 222);
+}
